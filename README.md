@@ -5,4 +5,6 @@ bấm vào "XEM TRƯỚC" để xem style bạn vừa chọn hoặc bấm "LẤY
 
 Wordpress : Bạn có thể lấy code và chọn widget "HTML Tùy Chỉnh" để nhúng code vào website WordPress hoặc chèn iframe vào bất cứ chỗ nào bạn muốn hiển thị
 
-Để lấy code vui lòng vào đây : https://webtygia.com/nhung-ty-gia-va-gia-vang-vao-website-cua-ban.html
+Các bạn hãy tải các ví dụ về và xem cách nhúng, nó rất dễ dàng. 
+
+Để lựa chọn style của bạn và lấy code nhúng vui lòng vào đây : https://webtygia.com/nhung-ty-gia-va-gia-vang-vao-website-cua-ban.html
